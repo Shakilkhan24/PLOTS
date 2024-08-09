@@ -67,4 +67,18 @@ The `Volume/volume.py` script generates 3D volume plots based on the following e
 You can explore these equations by running the [`Volume/volume.py`](Volume/volume.py) script.
 
 # 2D PLOTS (MATPLOTLIB, SEABORN)
-
+['relplot.py'](relplot.py)
+['distplot.py'](distplot.py)
+['pairplot.py'](pairplot.py)
+['jointplot.py'](jointplot.py)
+['corr.py'](corr.py)
+['pivot.py'](pivot.py)
+['pivot_agg.py'](pivot_agg.py)
+['confusion.py'](confusion.py)
+['clustermap.py'](clustermap.py)
+['pdf_plots'](pdf_plots.py)
+['catplot.py'](catplot.py)
+['3d.py'](3d.py)
+['3d_line.py'](3d_line.py)
+['3d_surface.py'](3d_surface.py)
+['3d_histogram.py'](3d_histogram.py)
