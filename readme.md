@@ -10,6 +10,7 @@ The `Mesh/mesh.py` script generates 3D mesh plots based on the following equatio
    \[
    x = u \cdot \cos(v), \quad y = u \cdot \sin(v), \quad z = u
    \]
+   $`\sqrt{3x-1}+(1+x)^2`$
 2. **Equation 2:**
    \[
    x = \cos(u) \cdot \sin(v), \quad y = \sin(u) \cdot \sin(v), \quad z = \cos(v)
