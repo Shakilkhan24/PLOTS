@@ -5,6 +5,7 @@ This repository contains Python scripts that generate 3D Mesh, Surface, and Volu
 ## Mesh3d Equations
 
 The `Mesh/mesh.py` script generates 3D mesh plots based on the following equations:
+**PARAMETRIC EQUATIONS**
 
 1. **Equation 1:**  
    $`x = u \cdot \cos(v), \quad y = u \cdot \sin(v), \quad z = u`$
