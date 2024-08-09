@@ -62,6 +62,9 @@ The `Volume/volume.py` script generates 3D volume plots based on the following e
    $`values = \cos(x) \cdot \cos(y) \cdot \cos(z)`$
    
 5. **Equation 5:**  
-   $`values = \exp(-x^2 - y^2 - z^2)`$
+   $`values = \exp(-x^2 - y^2 - z^2)`$   
 
 You can explore these equations by running the [`Volume/volume.py`](Volume/volume.py) script.
+
+# 2D PLOTS (MATPLOTLIB, SEABORN)
+
