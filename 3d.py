@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 
-# Load the tips dataset
+# Load the tips dataset ... ...
 tips = sns.load_dataset('tips')
 
 # Convert categorical columns to numerical for 3D plotting
