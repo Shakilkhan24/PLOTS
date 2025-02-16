@@ -1,6 +1,6 @@
 # 3D Plotting with Plotly
 
-This repository contains Python scripts that generate 3D Mesh, Surface, and Volume plots using Plotly. Each script includes multiple equations that can be toggled through buttons in the plot interface.
+This repository contains Python scripts that generate 3D Mesh, Surface, and Volume plots using Plotly. Each script includes multiple equations that can be toggled through buttons in the plot interface also.
 
 ## Mesh3d Equations
 
